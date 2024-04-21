@@ -4,7 +4,7 @@ Develop an AI-driven system that augments support agents' abilities to resolve c
 # StakeHolders
 - **Customers:** Have an AI Chatbot to quickly address basic queries and streamline various processes
 - **Agent:** Uses AI based tools to resolve tickets efficiently
-- **Buinesses:** AI-driven support system enhances efficiency, reduces costs, and improves customer satisfaction for businesses
+- **Buisnesses:** AI-driven support system enhances efficiency, reduces costs, and improves customer satisfaction for businesses
 
 # UserFlow
 
@@ -19,4 +19,10 @@ Develop an AI-driven system that augments support agents' abilities to resolve c
 ![Customers](https://github.com/Edward4762/Teamname/blob/main/image/Customer.jpg)
 
 ## Agents
-- 
+- A
+
+![Agents](https://github.com/Edward4762/Teamname/blob/main/image/Agent.jpg)
+## Buisnesses
+- B
+
+![Buisnesses](https://github.com/Edward4762/Teamname/blob/main/image/Buisnesses.jpg)

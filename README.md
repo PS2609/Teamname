@@ -9,3 +9,12 @@ Develop an AI-driven system that augments support agents' abilities to resolve c
 # UserFlow
 
 ![Flowchart](https://github.com/Edward4762/Teamname/blob/main/image/Flowchart.png)
+
+# Features
+## Customers 
+- Human Intervention Detection
+- Reinforced Learning
+- Providing a tag based system for ticket classificatin
+
+## Agents
+- 

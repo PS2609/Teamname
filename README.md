@@ -14,7 +14,9 @@ Develop an AI-driven system that augments support agents' abilities to resolve c
 ## Customers 
 - Human Intervention Detection
 - Reinforced Learning
-- Providing a tag based system for ticket classificatin
+- Providing a tag based system for ticket classification
+
+![Customers](https://github.com/Edward4762/Teamname/blob/main/image/Customer.jpg)
 
 ## Agents
 - 

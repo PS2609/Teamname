@@ -23,7 +23,7 @@ Develop an AI-driven system that augments support agents' abilities to resolve c
 - Faster ticket resolution leading to better efficiency
 
 ![Agents](https://github.com/Edward4762/Teamname/blob/main/image/Agent.jpg)
-### Buisnesses
+### Businesses
 - Meeting customer satisfaction leading to strong relationship with the customers
 - Reduced ticket backlog leading to improved customer service efficiency
 

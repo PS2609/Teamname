@@ -8,7 +8,6 @@ text2 = "suscríbete a mi canal"
 text3 = "kanalıma abone ol"
 
 
-
 translator = Translator()
 
 

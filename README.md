@@ -11,18 +11,18 @@ Develop an AI-driven system that augments support agents' abilities to resolve c
 ![Flowchart](https://github.com/Edward4762/Teamname/blob/main/image/Flowchart.png)
 
 # Features
-## Customers 
+### Customers 
 - Human Intervention Detection
 - Reinforced Learning
 - Providing a tag based system for ticket classification
 
 ![Customers](https://github.com/Edward4762/Teamname/blob/main/image/Customer.jpg)
 
-## Agents
+### Agents
 - A
 
 ![Agents](https://github.com/Edward4762/Teamname/blob/main/image/Agent.jpg)
-## Buisnesses
+### Buisnesses
 - B
 
 ![Buisnesses](https://github.com/Edward4762/Teamname/blob/main/image/Buisnesses.jpg)

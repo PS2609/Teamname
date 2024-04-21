@@ -61,9 +61,14 @@ Run
 $ (venv) python -m flask run
 ```
 
+
 ## Video Demo
 
-https://github.com/Edward4762/Teamname/blob/main/image/Demo%20Video.mp4
+
+
+https://github.com/Edward4762/Teamname/assets/123575108/17fb304a-0087-42a8-b656-492f9f316184
+
+
 
 ## Contributors
 - Priyanshi Sharma
